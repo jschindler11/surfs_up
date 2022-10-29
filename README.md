@@ -9,8 +9,6 @@ The purpose of this analysis is to analyze temperature data from June and Decemb
 * The maximum temperature in June is 85 degrees and the maximum temperature in December is 83 degrees
 * Despite June and December being peak months of opposite seasons (summer and winter, respectively), the average temperature only varies by 4 degrees
 * There is a difference of 8 degrees between the minumum temperature in June and the minimum temperature in December, while there is a difference of only 2 degrees between the maximum temperature in June and the maximum temperature in December
-*
-*
 
 ## Summary
 * Based off these findings, a surf and ice cream shop should be sustainable year round at this location. There might be a slight drop in sales during the winter, but not enough to jeopardize the profitability of the company.
